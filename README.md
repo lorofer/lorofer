@@ -5,8 +5,6 @@
 E-mail: lev.buben@gmail.com  
 Telegram: [@levbuben](https://t.me/levbuben) – предпочитаемый способ связи
 
-GitHub: https://github.com/lorofer
-
 ## Обо мне
 
 Привет!  
