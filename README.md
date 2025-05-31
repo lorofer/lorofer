@@ -25,4 +25,4 @@ Telegram: [@levbuben](https://t.me/levbuben) – предпочитаемый с
 - **JavaScript** ES6 (Node.js, Vue.js, React)
 - **SQL**, PostgreSQL
 - **Git**, GitLab
-- **Linux**
+- **Linux**, Bash
