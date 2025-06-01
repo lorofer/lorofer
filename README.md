@@ -21,7 +21,7 @@ Telegram: [@levbuben](https://t.me/levbuben) – предпочитаемый с
 
 ## Навыки
 
-- **C** (C11)
+- **C** (C11), gcc, valgrind, clang
 - **JavaScript** ES6 (Node.js, Vue.js, React)
 - **SQL**, PostgreSQL
 - **Git**, GitLab
